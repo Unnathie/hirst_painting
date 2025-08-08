@@ -20,14 +20,14 @@ Ever looked at Damien Hirst’s dot paintings and thought, *“I could make that
 4. Watch as your screen comes alive with a splash of colors.  
 5. Click anywhere in the turtle window to close it when you’re done admiring your work.  
 ## 📸 Example Output  
-Here’s the idea — your exact painting will be unique every time:  
+Here’s the outcome: your exact painting will be unique every time:  
 ![Example Output](example.png)  
 <img width="958" height="840" alt="image" src="https://github.com/user-attachments/assets/32e95002-8108-4c98-8f11-a0d0e6874721" />
 
 ## ⚙️ Customize Your Masterpiece  
 - **Change grid size** → Edit the loop ranges in the code.  
 - **Change dot size** → Modify `timmy.dot(20)` to your liking.  
-- **Change spacing** → Adjust the distance in `timmy.forward(50)` and `timmy.teleport(...)`.  
+- **Change spacing** → Adjust the distance in  `timmy.teleport(...)`.  
 - **Use your own palette** → Uncomment the color extraction code at the top and point it to a new image.  
 ## 📦 Requirements  
 - Python 3.x  
